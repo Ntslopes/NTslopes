@@ -105,7 +105,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cpluspl
 ### 📫 Contato
 
 - ✉️ matheuslopeslima2008@gmail.com  
-- 💼 LinkedIn: [](https://www.linkedin.com/in/matheus-lopes-l/)
+- 💼 [meu linkedin](https://www.linkedin.com/in/matheus-lopes-l/)
 
 ---
 
